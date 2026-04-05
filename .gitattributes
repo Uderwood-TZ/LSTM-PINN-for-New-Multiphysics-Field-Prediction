@@ -1,0 +1,4 @@
+case1/** filter=lfs diff=lfs merge=lfs -text
+case2 lstm/** filter=lfs diff=lfs merge=lfs -text
+case3_lstm/** filter=lfs diff=lfs merge=lfs -text
+case4 LSTM/** filter=lfs diff=lfs merge=lfs -text
